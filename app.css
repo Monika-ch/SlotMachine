@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  width: 50%;
+  transform: translateX(50%);
+  -webkit-transform: translateX(50%);
+  -moz-transform: translateX(50%);
+  -ms-transform: translateX(50%);
+  -o-transform: translateX(50%);
+}
+.Machine {
+  border: 2px solid chocolate;
+  background: #000;
+}
+
+.win {
+  color: greenyellow;
+}
+
+.lose {
+  color: red;
+}
